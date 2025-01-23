@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Quicksand:wght@300..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.quicksand-font {
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 16px;
+}
+
+.marq{
+    height: 70px;
+    font-size: 2.5rem;
+    color:darkblue;
+    background-color: palevioletred;
+}
+
+header{
+    background-color: rgba(229, 84, 115, 0.2);
+    height: 850px;
+    padding: 0 140px;
+    box-sizing: border-box;
+}
+
+.display-flex{
+    display: flex;
+}
+.lets-con{
+    width: 45%;
+}
+
+.lets{
+    font-weight: 800;
+    font-size: 5rem;
+}
+
+.lets-p{
+    margin: 32px 0;
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 1.2rem;
+}
+.lets-btn{
+    width: 177px;
+    height: 64px;
+    text-align: center;
+    border-radius: 8px;
+    border: none;
+    background: rgb(229, 84, 115);
+    color: white;
+    font-size: 1.3rem;
+}
+.flower-head{
+    padding-top: 50px;
+    align-items: center;
+    justify-content: space-between;
+}
