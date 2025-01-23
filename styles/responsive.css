@@ -1,0 +1,28 @@
+@media screen and (max-width:576px) {
+    html{
+        font-size: 8px;
+    }
+    header, .main-con{
+        padding: 0 40px;
+    }
+    .flower-head{
+        flex-direction: column;
+    }
+    .rose{
+        width: 355px;
+        height: 500px;
+    }
+    .lets-con{
+        width: 80%;
+    }
+    .lets-btn{
+        width: 87px;
+        height: 40px;
+    }
+    .card-con{
+        flex-direction: column;
+    }
+    .featu-p{
+        width: 80%;
+    }
+}
