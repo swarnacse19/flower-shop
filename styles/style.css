@@ -21,6 +21,8 @@ html{
     font-size: 2.5rem;
     color:darkblue;
     background-color: palevioletred;
+    display: flex;
+    align-items: center;
 }
 
 header{
